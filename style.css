@@ -1,0 +1,118 @@
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+   
+}
+
+.header {
+    padding-top: 18px;
+    font-family: monospace;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: #1f2937;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.aboutme {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 350px;
+    padding-right: 350px;
+    text-align: left;
+    font-family: monospace;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    color: white;
+    background-color: #1f2937;
+
+}
+
+
+.learnmore {
+    font-family: monospace;
+    font-size: 24px;
+    background-color:crimson;
+    color: white;
+    border-radius: 8px;
+    
+}
+
+.figures {
+    margin: 100px;
+    font-family: monospace;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: monospace;
+    text-align: center;
+}
+
+img {
+    border-radius: 8px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 28px;
+    font-family: monospace;
+    font-weight: lighter;
+    font-style: italic;
+    padding: 350px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    gap: 15px;
+    text-align: center;
+}
+
+.endquote {
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 22px;
+    text-align: end;
+}
+
+.signup {
+    border-radius: 8px;
+    margin: 148px;
+    padding: 50px;
+    font-family: monospace;
+    font-size: 24px;
+    text-align: left;
+    background-color:#1f2937;
+    color: white;
+    display: flex;
+    justify-content: left;
+}
+
+.signupbutton {
+    background-color: crimson;
+    color: white;
+    font-size: 24px;
+    font-family: monospace;
+    border-radius: 8px;
+    margin: 50px;
+    width: fit-content;
+    
+}
+
+
+
+
+
+
+
+
+
