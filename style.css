@@ -108,6 +108,26 @@ img {
     
 }
 
+#map {
+    height: 400px;
+    width: 100%;
+    border-radius: 4px;
+    
+  }
+
+.mapsheader {
+    text-align: center;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+footer {
+    font-family: monospace;
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
 
 
 
